@@ -11,7 +11,7 @@ It has 2 python files :
 1. 'covid stat - gui.py' - This code creates the GUI for the app
 2. 'covid_data.py' - This code handles the data and the graph/histogram creation.
 
-It uses as a data set an excel file: 'owid-covid-data.xlsx' , taken from "ourworldindata.org".
+It uses as a data set an excel file: 'owid-covid-data.xlsx' , taken from "ourworldindata.org" see ***CREDIT.
 
 This folder also includes:
 # 'GUI screenshot.png' a screenshot of the GUI running.
